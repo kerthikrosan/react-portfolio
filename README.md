@@ -70,7 +70,7 @@ Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
 
 ### Show your support
-
+<!-- 
 Give a ⭐ if you like this website!
 
-<a href="https://www.buymeacoffee.com/mrkerthik7i" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+<a href="https://www.buymeacoffee.com/mrkerthik7i" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a> -->
