@@ -13,8 +13,7 @@ function AboutCard() {
             <br />
             I am currently looking for a Software Developer Role.
             <br />
-            I have completed BE(CSE) in Sathyabama University
-            ,Chennai.
+            I have completed BE(CSE) in Sathyabama University,Chennai.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
