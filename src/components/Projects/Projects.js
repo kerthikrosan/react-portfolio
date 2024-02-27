@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import emotion from "../../Assets/Projects/emotion.png";
-import chatify from "../../Assets/Projects/chatify.png";
+import flatm from "../../Assets/Projects/flat management.png";
 import portfolio from "../../Assets/Projects/portfolio.png";
 
 
@@ -21,10 +21,10 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={flatm}
               isBlog={false}
-              title="QR Code Generator"
-              description="The objective of this Flutter project is to create a QR code generator application that allows users to easily generate QR codes for various purposes. As the developer, my goal is to design a user-friendly interface using Flutter's framework, enabling users to input text, URLs, or other data and generate corresponding QR codes instantly. I aim to implement features such as customization options for QR code colors and sizes, as well as the ability to save generated QR codes to the device's gallery. Additionally, I will ensure cross-platform compatibility to reach a wider audience of Android and iOS users, making QR code generation convenient and accessible for diverse use cases. Through this project, I seek to provide a valuable tool for users to generate QR codes efficiently while gaining proficiency in Flutter app development techniques and best practices.."
+              title="Flat Management System(React)"
+              description ="Developed a user-friendly Flat Management System using React.js, enabling seamless communication and efficient task management for residential communities. Leveraged React components, Hooks, and Router for intuitive user interfaces and responsive design, ensuring accessibility across devices. Demonstrated expertise in React.js while prioritizing functionality and user experience"
               ghLink="https://github.com/kerthikrosan"
             
             />
