@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://kerthikrosan.vercel.app/" target="_blank">KERTHIKROSAN M</a>
+  <a href="https://kerthikrosan.vercel.app/" target="_blank">KERTHIKROSAN </a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img.png" />
