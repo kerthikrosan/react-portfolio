@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import emotion from "../../Assets/Projects/emotion.png";
 import flatm from "../../Assets/Projects/flat management.png";
-import portfolio from "../../Assets/Projects/portfolio.png";
+import rps from "../../Assets/Projects/rps.png";
 
 
 function Projects() {
@@ -43,12 +43,12 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={portfolio}
+              imgPath={rps}
               isBlog={false}
-              title="React-Portfolio"
-              description="Develop a cutting-edge React portfolio to present my professional expertise, projects, and accomplishments in an engaging and interactive format. By leveraging React.js, I aim to create a visually captivating and user-friendly platform that highlights my skills, showcases my portfolio projects with detailed descriptions and demos, and effectively communicates my unique value proposition to recruiters, clients, and industry peers. Through this portfolio, I seek to establish a strong online presence, showcase my capabilities, and unlock new career opportunities in the ever-evolving tech landscape."
+              title="Travels Booking System"
+              description="Designed and developed a fully responsive and scalable travel booking platform using React.js for the frontend and Node.js with MYSQL for the backend. This project demonstrates my ability to architect real-world, end-to-end applications with features like package browsing, dynamic filtering, enquiry forms, and secure data management. The site is SEO-optimized, mobile-friendly, and built to provide a seamless booking experience for users across all devices. This platform not only highlights my full-stack development skills but also reflects my attention to performance, user experience, and real-time functionality—making it a key highlight in my professional portfolio aimed at recruiters, clients, and tech collaborators."
               ghLink="https://github.com/kerthikrosan/Editor.io"
-              demoLink="https://kerthikrosan.vercel.app/"              
+              demoLink="https://rpstours.com"              
             />
           </Col>
         </Row>
